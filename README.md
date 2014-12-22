@@ -35,11 +35,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The liues of the III. Normans, Kings of England William the first. William the second. Henrie the fi
+
+1. TO THE HIGH AND MIGHTIE PRINCE CHARLES Prince of Wales.
+
 #####Body#####
-The liues of the III. Normans, Kings of England William the first. William the second. Henrie the fi
+
+1. THE LIFE OF KING WILLIAM THE FIRST, Sirnamed Conquerour.
+
+1. K. WILLIAM THE SECOND, sirnamed RVFVS.
+
+1. KING HENRY THE FIRST, Sirnamed BEAVCLERKE.
+
 #####Back#####
-The liues of the III. Normans, Kings of England William the first. William the second. Henrie the fi
+
+1. Escapes.
+
 **Types of content**
 
   * There are 2 **verse** lines!
